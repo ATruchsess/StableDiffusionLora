@@ -30,6 +30,11 @@ Example Prompts:
     A detailed line chart tracking stock market trends, blue and green lines, dark theme, financial data
     An artistic interpretation of a bar chart, watercolor style, abstract data representation
 
+Example City with line chart details:
 ![1TR22DP95Q7WMF6A1QGDHSH2V0](https://github.com/user-attachments/assets/d4ed121e-f063-49a3-bf0b-2c9c85c2df71)
+
+Example generated Barchart:
 ![HWTGWHM366665W3GSV0NKQVNY0](https://github.com/user-attachments/assets/8f8b0373-d6c4-43ac-8b52-0a7bc4c851b1)
+
+Example Tree with barchart details in the background:
 ![Tree](https://github.com/user-attachments/assets/426b7165-3eb5-4beb-9ffe-d037895647fa)
